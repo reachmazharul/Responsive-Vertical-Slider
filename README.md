@@ -22,3 +22,7 @@ It's a WordPress plugin for the purpose of vertical slider.
 == Installation ==
 1.Download and unzip the plugin. Upload the unzipped folder to the wp-contents/plugins folder of your WordPress installation.
 2.Active the plugin from the WordPress Plugins administration page.
+
+==Changelog==
+v1.3 ( May 17, 2018 )
+**Initial release
